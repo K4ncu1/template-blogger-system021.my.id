@@ -8,6 +8,6 @@ K4ncu1 - enemy021system@gmail.com
 
 ## Website
 
-Visit Blog <a href="https://www.system021.my.id">System 021</a>
+System 021 | <a href="https://www.system021.my.id">Berita Siber</a>
 <br>
-Create a Safelink on <a href="https://www.system021.my.id">Safelink 021</a>
+Safelink 021 | <a href="https://www.system021.my.id">Safelink Penghasil Duit</a>

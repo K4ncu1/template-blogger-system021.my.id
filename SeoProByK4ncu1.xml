@@ -4,25 +4,18 @@
 <b:include name='theme-dark-mode'/>
 <head>
   
-<!-- Code AdSense Otomatis -->
+<!-- Auto AdSense Code -->
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async='async' src='https://www.googletagmanager.com/gtag/js?id=UA-219508608-1'/>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag(&#39;js&#39;, new Date());
+<!-- Google Analytics Code -->
 
-  gtag(&#39;config&#39;, &#39;UA-219508608-1&#39;);
-</script>
 
 <!-- Meta Tags SEO -->
-<meta content='P2bA69RdkfOMB4m8c3af1OvraTlC65EuVQpzi3BznQc' name='google-site-verification'/>
-<meta content='system021.my.id' name='alexaVerifyID'/>
-<meta content='system021.my.id' name='p:domain_verify'/>
-<meta content='system021.my.id' name='yandex-verification'/>
-<meta content='system021.my.id' name='msvalidate.01'/>
+<meta content='XXXXX' name='google-site-verification'/>
+<meta content='XXXXX' name='alexaVerifyID'/>
+<meta content='XXXXX' name='p:domain_verify'/>
+<meta content='XXXXX' name='yandex-verification'/>
+<meta content='XXXXX' name='msvalidate.01'/>
   
 <b:include name='theme-head'/>
 <b:if cond='!data:view.isLayoutMode'>
@@ -34,9 +27,8 @@ Blogger Template Style
 Name     	  : SeoPro
 License   	  : Premium Version
 Version  	  : v1.4.0 - Premium
-Author   	  : Templateify
 Paid By	      : www.system021.my.id
-Modify By     : K4ncu1
+Modified By   : K4ncu1
 ----------------------------------------------- */
 
 /*
@@ -2241,45 +2233,23 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
               <b:section class='seopro-pro-main-nav' id='seopro-pro-main-nav' maxwidgets='1' name='Main Menu' showaddelement='no'>
                 <b:widget id='LinkList101' locked='true' title='' type='LinkList' visible='true'>
                   <b:widget-settings>
-                    <b:widget-setting name='text-10'>_Berita Internet</b:widget-setting>
-                    <b:widget-setting name='link-17'>https://bit.ly/3onHaob</b:widget-setting>
-                    <b:widget-setting name='link-16'>https://www.system021.my.id/p/penghitung-kata.html</b:widget-setting>
+                    <b:widget-setting name='link-7'>?hl=ar</b:widget-setting>
+                    <b:widget-setting name='link-5'>https://www.system021.my.id/p/penghitung-kata.html</b:widget-setting>
+                    <b:widget-setting name='link-6'>https://safelink.system021.my.id</b:widget-setting>
+                    <b:widget-setting name='link-3'>https://www.system021.my.id/search/label/Trading</b:widget-setting>
+                    <b:widget-setting name='link-4'>#</b:widget-setting>
+                    <b:widget-setting name='text-1'>Berita Teknologi</b:widget-setting>
+                    <b:widget-setting name='text-0'>Berita Siber</b:widget-setting>
+                    <b:widget-setting name='text-3'>Belajar Trading</b:widget-setting>
+                    <b:widget-setting name='text-2'>Berita Cyber Security</b:widget-setting>
+                    <b:widget-setting name='text-5'>_Penghitung Kata Online</b:widget-setting>
+                    <b:widget-setting name='text-4'>Tools</b:widget-setting>
+                    <b:widget-setting name='text-7'>_RTL Version</b:widget-setting>
+                    <b:widget-setting name='text-6'>_Safelink Penghasil Duit</b:widget-setting>
                     <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                    <b:widget-setting name='link-18'>?hl=ar</b:widget-setting>
-                    <b:widget-setting name='link-1'>https://www.system021.my.id/search/label/Learn</b:widget-setting>
-                    <b:widget-setting name='link-13'>https://www.system021.my.id/search/label/Sosial</b:widget-setting>
-                    <b:widget-setting name='link-2'>#</b:widget-setting>
-                    <b:widget-setting name='link-12'>https://www.system021.my.id/search/label/Otomotif</b:widget-setting>
-                    <b:widget-setting name='link-15'>#</b:widget-setting>
-                    <b:widget-setting name='link-0'>https://www.system021.my.id/search/label/Teknologi</b:widget-setting>
-                    <b:widget-setting name='link-14'>https://bit.ly/3onHaob</b:widget-setting>
-                    <b:widget-setting name='link-11'>https://www.system021.my.id/search/label/Mobile</b:widget-setting>
-                    <b:widget-setting name='link-10'>https://www.system021.my.id/search/label/Internet</b:widget-setting>
-                    <b:widget-setting name='text-9'>Other</b:widget-setting>
-                    <b:widget-setting name='link-9'>#</b:widget-setting>
-                    <b:widget-setting name='text-8'>_Berita Trading</b:widget-setting>
-                    <b:widget-setting name='link-7'>https://www.system021.my.id/search/label/Money</b:widget-setting>
-                    <b:widget-setting name='link-8'>https://www.system021.my.id/search/label/Trading</b:widget-setting>
-                    <b:widget-setting name='link-5'>https://www.system021.my.id/search/label/Programming</b:widget-setting>
-                    <b:widget-setting name='link-6'>#</b:widget-setting>
-                    <b:widget-setting name='link-3'>https://www.system021.my.id/search/label/Hacking</b:widget-setting>
-                    <b:widget-setting name='link-4'>https://www.system021.my.id/search/label/Cyber%20Security</b:widget-setting>
-                    <b:widget-setting name='text-1'>Belajar IT</b:widget-setting>
-                    <b:widget-setting name='text-0'>Berita Teknologi</b:widget-setting>
-                    <b:widget-setting name='text-3'>_Berita Hacker</b:widget-setting>
-                    <b:widget-setting name='text-2'>Security</b:widget-setting>
-                    <b:widget-setting name='text-5'>_Belajar Programming</b:widget-setting>
-                    <b:widget-setting name='text-4'>_Berita Cyber Security</b:widget-setting>
-                    <b:widget-setting name='text-7'>_Penghasil Uang</b:widget-setting>
-                    <b:widget-setting name='text-6'>Finance</b:widget-setting>
-                    <b:widget-setting name='text-15'>Tools</b:widget-setting>
-                    <b:widget-setting name='text-16'>_Word Counter Online</b:widget-setting>
-                    <b:widget-setting name='text-17'>_Error Page</b:widget-setting>
-                    <b:widget-setting name='text-18'>_RTL Version</b:widget-setting>
-                    <b:widget-setting name='text-11'>_Berita Gadget</b:widget-setting>
-                    <b:widget-setting name='text-12'>_Berita Otomotif</b:widget-setting>
-                    <b:widget-setting name='text-13'>_Berita Harian Sosial</b:widget-setting>
-                    <b:widget-setting name='text-14'>_Ebook SEO</b:widget-setting>
+                    <b:widget-setting name='link-1'>https://www.system021.my.id/search/label/Teknologi</b:widget-setting>
+                    <b:widget-setting name='link-2'>https://www.system021.my.id/search/label/Cyber%20Security</b:widget-setting>
+                    <b:widget-setting name='link-0'>https://www.system021.my.id/search/label/Berita</b:widget-setting>
                   </b:widget-settings>
                   <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -2316,7 +2286,7 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='1' name='Header ADS' showaddelement='yes'>
         <b:widget id='HTML1' locked='false' title='{ads}' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -2335,15 +2305,15 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
             <b:widget-settings>
               <b:widget-setting name='showDateHeader'>false</b:widget-setting>
               <b:widget-setting name='commentLabel'>$type={blogger}</b:widget-setting>
-              <b:widget-setting name='style.textcolor'>#f8f9fa</b:widget-setting>
+              <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
               <b:widget-setting name='showShareButtons'>true</b:widget-setting>
               <b:widget-setting name='authorLabel'>by</b:widget-setting>
               <b:widget-setting name='showCommentLink'>true</b:widget-setting>
-              <b:widget-setting name='style.urlcolor'>#4285f4</b:widget-setting>
+              <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
               <b:widget-setting name='showAuthor'>true</b:widget-setting>
-              <b:widget-setting name='style.linkcolor'>#f4f5fa</b:widget-setting>
+              <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
               <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
-              <b:widget-setting name='style.bgcolor'>#000000</b:widget-setting>
+              <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
               <b:widget-setting name='timestampLabel'>&#8226;</b:widget-setting>
               <b:widget-setting name='reactionsLabel'/>
               <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
@@ -2354,7 +2324,7 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
               <b:widget-setting name='showTimestamp'>true</b:widget-setting>
               <b:widget-setting name='postsPerAd'>1</b:widget-setting>
               <b:widget-setting name='showBacklinks'>false</b:widget-setting>
-              <b:widget-setting name='style.bordercolor'>#000000</b:widget-setting>
+              <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
               <b:widget-setting name='showInlineAds'>false</b:widget-setting>
               <b:widget-setting name='showReactions'>false</b:widget-setting>
             </b:widget-settings>
@@ -2813,7 +2783,7 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
           <b:section cond='data:view.isLayoutMode or (data:view.isPost and (data:widgets.HTML any w =&gt; w.sectionId == &quot;seopro-pro-main-before-ad&quot;))' id='seopro-pro-main-before-ad' maxwidgets='1' name='Post ADS 1' showaddelement='yes'>
             <b:widget id='HTML6' locked='false' title='{ads}' type='HTML' version='2' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+                <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
               </b:widget-settings>
               <b:includable id='main'>
                     <b:include name='html-content'/>
@@ -2823,7 +2793,7 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
            <b:section cond='data:view.isLayoutMode or (data:view.isPost and (data:widgets.HTML any w =&gt; w.sectionId == &quot;seopro-pro-main-after-ad&quot;))' id='seopro-pro-main-after-ad' maxwidgets='1' name='Post ADS 2' showaddelement='yes'>
              <b:widget id='HTML7' locked='false' title='{ads}' type='HTML' version='2' visible='true'>
                <b:widget-settings>
-                 <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+                 <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
                </b:widget-settings>
                <b:includable id='main'>
                     <b:include name='html-content'/>
@@ -2888,9 +2858,25 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
 </script>
 </b:includable>
           </b:widget>
-          <b:widget id='HTML10' locked='false' title='{ads}' type='HTML' visible='true'>
+          <b:widget id='Text3' locked='false' title='Powered by: System 021' type='Text' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+              <b:widget-setting name='content'>Modified by: K4ncu1</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+      <b:include name='text-content'/>
+    </b:includable>
+          </b:widget>
+          <b:widget id='HTML3' locked='false' title='{ads}' type='HTML' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='content'><![CDATA[<a href="https://www.buymeacoffee.com/system021" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="width: 300px !important;" /></a>]]></b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+      <b:include name='html-content'/>
+    </b:includable>
+          </b:widget>
+          <b:widget id='HTML4' locked='false' title='{ads}' type='HTML' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
       <b:include name='html-content'/>
@@ -2959,7 +2945,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
           </b:widget>
           <b:widget id='HTML2' locked='false' title='{ads}' type='HTML' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
       <b:include name='html-content'/>
@@ -2975,7 +2961,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
       <b:section class='footer-ads container row-x1' id='footer-ads' maxwidgets='1' name='Footer ADS' showaddelement='yes'>
         <b:widget id='HTML5' locked='false' title='{ads}' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita cyber security</a>]]></b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[<a class="ads-here" href="https://www.system021.my.id/">Berita Siber</a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -2995,11 +2981,11 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEhHndEndwl4qoP8TE_xfBk95lIFFKiGX5OWzeT5Yfty98LaPvZCaQF3GwBrpJT8c_-u8G8w_bA3kjLg592DfmdCWC1Ibh6XDNnmVL1ibiQvZX3W5DD5Yr0g5uLl3DvRGYZA_Uo4SWxQIkYavHuFjDr1mIBwBYH0ThFxb9kHJzxmx3ATg3lLRckkF7jojg=s150</b:widget-setting>
               <b:widget-setting name='displayHeight'>42</b:widget-setting>
-              <b:widget-setting name='sectionWidth'>970</b:widget-setting>
+              <b:widget-setting name='sectionWidth'>150</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='displayWidth'>150</b:widget-setting>
               <b:widget-setting name='link'>/</b:widget-setting>
-              <b:widget-setting name='caption'>Media berita dan edukasi seputar teknologi, keamanan siber, keuangan, dan lain-lain.</b:widget-setting>
+              <b:widget-setting name='caption'>Berita Siber Tepercaya</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -3011,10 +2997,10 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
           </b:widget>
           <b:widget id='LinkList103' locked='true' title='Follow Us' type='LinkList' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='link-5'>https://id.pinterest.com/blogsystem021</b:widget-setting>
+              <b:widget-setting name='link-5'>https://pinterest.com/system021myid</b:widget-setting>
               <b:widget-setting name='link-6'>https://news.google.com/publications/CAAqBwgKMImEsgswlp_JAw</b:widget-setting>
               <b:widget-setting name='link-3'>https://www.linkedin.com/in/system-0-1-612554230</b:widget-setting>
-              <b:widget-setting name='link-4'>https://www.instagram.com/021system</b:widget-setting>
+              <b:widget-setting name='link-4'>https://www.instagram.com/system021myid</b:widget-setting>
               <b:widget-setting name='text-1'>twitter</b:widget-setting>
               <b:widget-setting name='text-0'>facebook-f</b:widget-setting>
               <b:widget-setting name='text-3'>linkedin</b:widget-setting>
@@ -3023,9 +3009,9 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
               <b:widget-setting name='text-4'>instagram</b:widget-setting>
               <b:widget-setting name='text-6'>rss</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
-              <b:widget-setting name='link-1'>https://twitter.com/021System</b:widget-setting>
-              <b:widget-setting name='link-2'>https://t.me/blogsystem021</b:widget-setting>
-              <b:widget-setting name='link-0'>https://facebook.com/021system</b:widget-setting>
+              <b:widget-setting name='link-1'>https://twitter.com/system021myid</b:widget-setting>
+              <b:widget-setting name='link-2'>https://t.me/System021</b:widget-setting>
+              <b:widget-setting name='link-0'>https://facebook.com/system021myid</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -3044,7 +3030,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
         <b:section class='footer-copyright' id='footer-copyright' maxwidgets='1' name='Footer Copyright'>
           <b:widget id='Text2' locked='false' title='' type='Text' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[&#169; 2022 <a href="https://www.system021.my.id/" target="_blank">system021.my.id</a>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[&#169; 2023 <a href="https://www.system021.my.id/" target="_blank">system021.my.id</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
                 <b:include name='text-content'/>

@@ -1,6 +1,8 @@
 # Template Blogger system021.my.id
 
- Template SeoPro v1.4.0 Premium Modified by K4ncu1. 
+ Template SeoPro v1.4.0 Premium Modified by K4ncu1.
+ <br>
+ Note: <b>Always Updated</b>
 
 ## Contact
 
